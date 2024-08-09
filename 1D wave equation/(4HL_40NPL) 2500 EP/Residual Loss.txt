@@ -1,0 +1,2 @@
+Residual loss after 2500 iterations for this hyperparameter setting
+= 3.2146924695553025e-05
